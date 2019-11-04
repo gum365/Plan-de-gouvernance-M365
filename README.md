@@ -11,6 +11,12 @@ Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans
    6. Support
 2. Gouvernance Groupes Office 365
    1. Roles et responsabilités
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
    Role | Responsabilités | Nom
    ------------|---------------------------------------------|--------------------------
    Administrateur teams | |
