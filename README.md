@@ -11,6 +11,11 @@ Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans
    6. Support
 2. Gouvernance Groupes Office 365
    1. Roles et responsabilités
+   -----------------------------------------------------------------------------------
+   - Role - Responsabilités - Nom -
+   -----------------------------------------------------------------------------------
+   
+   
 3. Gouvernance Microsoft Teams
    1. Roles et responsabilités
 4. Gouvernance Microsoft PowerPlatform
