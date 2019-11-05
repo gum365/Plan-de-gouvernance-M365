@@ -2,7 +2,11 @@
 Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans vos projets
 
 ## Sommaire
-Qu’est-ce que la gouvernance?
+
+
+
+
+# 0. Qu’est-ce que la gouvernance?
 
 # 1. Gouvernance générale Microsoft 365
 ## 1. Rôles et responsabilités
@@ -95,14 +99,14 @@ Les noms ne doivent pas utiliser des caractères accentués ou des caractères s
 Il est essentiel de mettre en place une classification des équipes pour en faciliter l’identification et surtout éduquer les utilisateurs rapidement comprendre la gouvernance de chacun des types d’équipe.
 Définir ici quelle sera la classification utilisée. Par exemple :
 Nom	Description
-Service	Les membres du service sont automatiquement ajoutés. Uniquement pour du contenu interne à la CCQ et limité aux membres du service. Ces services ne sont pas limités dans le temps.
-Communaute	Les membres peuvent demander à rejoindre. Uniquement pour du contenu interne à la CCQ mais disponible à tous. Ces communautés ne sont pas limitées dans le temps.
-Projet	Les membres du projet sont ajoutés par le chef du projet. Uniquement pour du contenu interne à la CCQ et limité aux membres du projet. Ces projets sont limités dans le temps.
-Extrerne	Les membres du projet sont ajoutés par le propriétaire et peuvent être des utilisateurs Externes. Aucun contenu sensible de la CCQ ne doit être conservé dans cet espace dont la vie est limitée dans le temps.
+Service	Les membres du service sont automatiquement ajoutés. Uniquement pour du contenu interne et limité aux membres du service. Ces services ne sont pas limités dans le temps.
+Communaute	Les membres peuvent demander à rejoindre. Uniquement pour du contenu interne mais disponible à tous. Ces communautés ne sont pas limitées dans le temps.
+Projet	Les membres du projet sont ajoutés par le chef du projet. Uniquement pour du contenu interne et limité aux membres du projet. Ces projets sont limités dans le temps.
+Extrerne	Les membres du projet sont ajoutés par le propriétaire et peuvent être des utilisateurs Externes. Aucun contenu sensible ne doit être conservé dans cet espace dont la vie est limitée dans le temps.
 
 ## 4.	Ouverture des équipes Microsoft Teams aux utilisateurs externes invités
 Définir ici si il sera possible et qui sera en charge d’inviter des utilisateurs externes.
-Ces utilisateurs apparaitront dans votre annuaire Azure Active Directory. Ils n’utiliseront pas les licences CCQ mais devront avoir la licence nécessaire pour accéder aux applications que vous souhaitez leur partager. Il est important de mettre en place un script PowerShell permettant de « nettoyer » cette liste d’utilisateurs après que l’équipe Externe ait été archivée.
+Ces utilisateurs apparaitront dans votre annuaire Azure Active Directory. Ils n’utiliseront pas les licences mais devront avoir la licence nécessaire pour accéder aux applications que vous souhaitez leur partager. Il est important de mettre en place un script PowerShell permettant de « nettoyer » cette liste d’utilisateurs après que l’équipe Externe ait été archivée.
 ## 5.	Création des équipes Microsoft Teams
 Définir ici qui sera en charge de la création des équipes et quel sera le processus.
 La demande doit être effectuée auprès du centre de service. Mais faut-il que la demande soit validée avant d’en lancer la création par le centre de service.
