@@ -7,7 +7,7 @@ C’est le point de départ pour devenir un contributeur - Améliorer le code, A
 - [Introduction](#introduction)
 - [Auteurs](#auteurs)
 - [Sponsors](#sponsors)
-- [Réunions de la communauté](#reunions-de-la-communaute)
+- [Réunions de la communauté](#réunions-de-la-communauté)
 - [Comment participer?](#comment-participer-)
 - [Questions](#questions)
 
