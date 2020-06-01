@@ -20,8 +20,8 @@ Autres documents
 - [Comité de surveillance](COMITE-SURVEILLANCE.md) - décrit notre comité directeur
 - [Rôles dans la communauté](ROLES.md) - décrit les rôles que les individus peuvent assumer au sein de la communauté
 - [Nouvelles solutions M365](NOUVELLES-SOLUTIONS.md) - décrit le procédé d'ajout de nouvelles solutions Microsoft 365
-- [Feature Lifecycle](FEATURE-LIFECYCLE.md) - exigences pour les étiquettes Alpha, Beta ou Stable
-- [Feature Lifecycle Checklist](FEATURE-LIFECYCLE-CHECKLIST.md) - formulaire de contrôle des exigences pour les étiquettes Alpha, Beta ou Stable
+- [Étiquettes de cycle de vie](ETIQUETTES-CYCLEDEVIE.md) - exigences pour les étiquettes Alpha, Beta ou Stable
+- [Contrôle des Étiquettes de cycle de vie](CONTROLE-ETIQUETTES-CYCLEDEVIE.md) - formulaire de contrôle des exigences pour les étiquettes Alpha, Beta ou Stable
 
 ## Introduction
 
