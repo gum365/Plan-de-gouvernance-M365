@@ -24,45 +24,46 @@ Administrateur Réseaux |
 ## 5. Plan pédagogique
 ## 6. Support
 
-#2. Gouvernance Groupes Office 365
-•	Quel modèle de mise en service répond aux besoins de votre organisation ?
-•	Votre organisation a-t-elle besoin de limiter la création de groupes aux administrateurs ?
-•	Votre organisation a-t-elle besoin de limiter la création de groupe aux membres du groupe de sécurité ?
-•	Votre organisation a-t-elle besoin de créer des groupes de manière dynamique en fonction des attributs des utilisateurs, tels que service ?
-•	Votre annuaire AD est-il utilisé conformément aux recommandations? Utilisez-vous des attributs personnalisés?
-•	Votre annuaire fait-il apparaitre l’information Manager?
-•	Votre annuaire fait-il apparaitre l’information Depatment?
-•	Souhaitez-vous faire apparaitre tous les groupes dans votre Liste d’Adresse Globale (GAL)? Ou seulement une sorte de groupes? Comment les identifier?
+# 2. Gouvernance Groupes Office 365
+- Quel modèle de mise en service répond aux besoins de votre organisation ?
+- Votre organisation a-t-elle besoin de limiter la création de groupes aux administrateurs ?
+- Votre organisation a-t-elle besoin de limiter la création de groupe aux membres du groupe de sécurité ?
+- Votre organisation a-t-elle besoin de créer des groupes de manière dynamique en fonction des attributs des utilisateurs, tels que service ?
+= Votre annuaire AD est-il utilisé conformément aux recommandations? Utilisez-vous des attributs personnalisés?
+- Votre annuaire fait-il apparaitre l’information Manager?
+- Votre annuaire fait-il apparaitre l’information Depatment?
+- Souhaitez-vous faire apparaitre tous les groupes dans votre Liste d’Adresse Globale (GAL)? Ou seulement une sorte de groupes? Comment les identifier?
+
 ## 1.	Rôles et responsabilités
-•	Qui prend ou valide les décisions?
+- Qui prend ou valide les décisions?
 ## 2.	Règles d’archivage et de retention
-•	Avez-vous besoin que certains biens soient archivés pour le stockage à long terme ?
-•	Existe-t-il des exigences en matière de rétention pour votre organisation ?
+- Avez-vous besoin que certains biens soient archivés pour le stockage à long terme ?
+- Existe-t-il des exigences en matière de rétention pour votre organisation ?
 ## 3.	Convention de nommage
-•	Votre organisation a-t-elle besoin d’une convention d’affectation de noms spécifique pour les groupes ?
-•	Votre organisation a-t-elle besoin de la Convention d’affectation de noms pour toutes les charges de travail ?
-•	Votre organisation a-t-elle des mots spécifiques que vous souhaitez empêcher les utilisateurs d’utiliser ?
+- Votre organisation a-t-elle besoin d’une convention d’affectation de noms spécifique pour les groupes ?
+- Votre organisation a-t-elle besoin de la Convention d’affectation de noms pour toutes les charges de travail ?
+- Votre organisation a-t-elle des mots spécifiques que vous souhaitez empêcher les utilisateurs d’utiliser ?
 ## 4.	Expiration des groupes
-•	Votre organisation a-t-elle besoin de spécifier une date d’expiration pour teams ?
-•	Déterminer la stratégie de traitement des groupes orphelins ?
+- Votre organisation a-t-elle besoin de spécifier une date d’expiration pour teams ?
+- Déterminer la stratégie de traitement des groupes orphelins ?
 ## 5.	Utilisateurs Externes (invités)
-•	Avez-vous besoin de limiter la possibilité d’ajouter des invités à teams par groupe ?
-•	Votre organisation a-t-elle besoin de présenter des clauses d’exclusion de responsabilité pertinentes pour les besoins légaux ou de conformité ?
-•	Votre organisation a-t-elle besoin de réduire la charge administrative de l’ajout et de la suppression d’utilisateurs ?
-•	Votre organisation prévoit-elle des contrôles d’audit pour l’accès invité/externe ?
+- Avez-vous besoin de limiter la possibilité d’ajouter des invités à teams par groupe ?
+- Votre organisation a-t-elle besoin de présenter des clauses d’exclusion de responsabilité pertinentes pour les besoins légaux ou de conformité ?
+- Votre organisation a-t-elle besoin de réduire la charge administrative de l’ajout et de la suppression d’utilisateurs ?
+- Votre organisation prévoit-elle des contrôles d’audit pour l’accès invité/externe ?
 ## 6.	Sécurité et conformité
-•	Votre organisation a-t-elle des exigences d’utilisation spécifiques qui doivent être communiquées à tous les utilisateurs ?
-•	Votre organisation a-t-elle besoin des classifications de tout le contenu ?
-•	Votre organisation nécessite-t-elle la conservation du contenu pendant une période de temps spécifique ?
-•	Votre organisation nécessite-t-elle des stratégies de rétention de données spécifiques ? plied à des groupes ?
-•	Votre organisation a-t-elle besoin d’avoir la possibilité d’archiver des groupes inactifs pour conserver le contenu ?
-•	Les créateurs de groupe doivent-ils pouvoir attribuer des classifications spécifiques de l’organisation à teams ?
+- Votre organisation a-t-elle des exigences d’utilisation spécifiques qui doivent être communiquées à tous les utilisateurs ?
+- Votre organisation a-t-elle besoin des classifications de tout le contenu ?
+- Votre organisation nécessite-t-elle la conservation du contenu pendant une période de temps spécifique ?
+- Votre organisation nécessite-t-elle des stratégies de rétention de données spécifiques ? plied à des groupes ?
+- Votre organisation a-t-elle besoin d’avoir la possibilité d’archiver des groupes inactifs pour conserver le contenu ?
+- Les créateurs de groupe doivent-ils pouvoir attribuer des classifications spécifiques de l’organisation à teams ?
 ## 7.	Listes de distributions actuelles
-•	Votre organisation a-t-elle des listes de distribution qui ne sont pas éligibles pour la mise à niveau ?
-•	Déterminez le type de groupe sur lequel la liste de distribution est la mieux migrée.
+- Votre organisation a-t-elle des listes de distribution qui ne sont pas éligibles pour la mise à niveau ?
+- Déterminez le type de groupe sur lequel la liste de distribution est la mieux migrée.
 ## 8.	Analyse et reporting
-•	Votre organisation a-t-elle besoin de rapports réguliers pour comprendre l’utilisation des groupes Office 365 ?
-•	Votre organisation a-t-elle besoin de rapports sur tous les groupes qui ont des membres externes ?
+- Votre organisation a-t-elle besoin de rapports réguliers pour comprendre l’utilisation des groupes Office 365 ?
+- Votre organisation a-t-elle besoin de rapports sur tous les groupes qui ont des membres externes ?
 
 Fonctionnalité	Détails	Licence Azure AD Premium requise	Décision
 Stratégie de noms de groupes	Utiliser des mots bloqués personnalisés à l’aide de suffixe-suffixe.	P1	À déterminer
