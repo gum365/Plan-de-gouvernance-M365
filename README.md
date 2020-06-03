@@ -4,13 +4,9 @@ Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans
 ## Introduction
 
 ## Sommaire
-
-
-
-
 1. Qu’est-ce que la gouvernance?
-[Gouvernance générale Microsoft 365](http://https://github.com/gum365/Plan-de-gouvernance-M365/Microsoft 365/README.md)
-3. Gouvernance des groupes Office(/Groupes Offices/README.md)
+2. Gouvernance générale Microsoft 365
+3. Gouvernance des groupes Office
 4. Gouvernance Microsoft Teams
 5. Gouvernance Microsoft Power Platform
 6. Gouvernance Microsoft Power Apps
