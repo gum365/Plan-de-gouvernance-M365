@@ -11,18 +11,6 @@ Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans
 # 0. Qu’est-ce que la gouvernance?
 
 # 1. Gouvernance générale Microsoft 365
-## 1. Rôles et responsabilités
-
-Rôle | Responsabilités | Nom
---------------------------------------------------------------------------------------------
-Administrateur global |
-Administrateur Réseaux |
-
-## 2. Révision du plan de gouvernance
-## 3. Mesure du plan de gouvernance
-## 4. Plan de remédiation
-## 5. Plan pédagogique
-## 6. Support
 
 # 2. Gouvernance Groupes Office 365
 - Quel modèle de mise en service répond aux besoins de votre organisation ?
