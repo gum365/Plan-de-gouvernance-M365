@@ -17,16 +17,16 @@ Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans
 # 3. Gouvernance Microsoft Teams
 
 # 4. Gouvernance Microsoft Power Platform
-## 1. Rôles et responsabilités
+
 # 5. Gouvernance Microsoft Power Apps
-## 1. Rôles et responsabilités
+
 # 6. Gouvernance Microsoft Power Automate
-## 1. Rôles et responsabilités
+
 # 7. Gouvernance Microsoft Power BI
-## 1. Rôles et responsabilités
+
 # 8. Gouvernance SharePoint
-## 1. Rôles et responsabilités
+
 # 9. Gouvernance OneDrive for Business
-## 1. Rôles et responsabilités
-# 10. Gouvernance Hybride
-## 1. Rôles et responsabilités
+
+# 10. Gouvernance Microsoft Exchange
+
