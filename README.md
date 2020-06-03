@@ -16,4 +16,4 @@ Un plan de gouvernance libre et Open-Source pour faciliter sa mise en place dans
 10. Gouvernance OneDrive for Business
 11. Gouvernance Microsoft Exchange
 
-[Duck Duck Go](https://duckduckgo.com)
+[Duck Duck Go](/README.md)
